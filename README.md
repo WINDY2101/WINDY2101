@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @WINDY2101
+- 👋 Hi, I’m WINDY
 - 👀 I’m interested in cybersecurity
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
