@@ -1,6 +1,6 @@
-- 👋 Hi, I’m WINDY
+- 👋 Hi, I’m SecurePeterX
 - 👀 I’m interested in cybersecurity
-- 🌱 I’m currently learning python and SQL
+- 🌱 I’m currently learning Python and tools Kali Linux
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 
